@@ -11,3 +11,5 @@ To start the development server and preview the changes being made into the webs
 
 ## 3. run npm build 
 To make the production build for the website before deployment.
+
+# Note: The Contact form section is currently not accepting any responses. 
